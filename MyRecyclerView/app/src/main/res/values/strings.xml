@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string name="hmj_name">HMJ Polines</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>HMJ Elektro</item>
+        <item>HMJ Sipil</item>
+        <item>HMJ Mesin</item>
+        <item>HMJ Akuntasnsi</item>
+        <item>HMJ Administrasi Bisnis</item>
+        <item>UKM PCC</item>
+        <item>UKM Konsep</item>
+        <item>KOPMA BM</item>
+        <item>UKM KWU</item>
+        <item>UKM PP</item>
+        <item>UKM PECC</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Himpunan Mahasiswa Jurusan Teknik Elektro adalah salah satu Himpun an Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organ isasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Tek nik Elektro untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Teknik Sipil adalah salah satu Himpunan Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organis asi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Tekni k Sipil untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Teknik Mesin adalah salah satu Himpunan Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organis asi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Tekni k Mesin untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Akutansi adalah salah satu Himpunan Mah asiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan akutansi untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Administrasi Bisnis adalah salah satu H impunan Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusa n Administrasi Bisnis untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Unit Kegiatan Mahasiswa Polytechnic Computer Club atau biasa disin gkat UKM PCC, merupakan organisasi di Politeknik Negeri Semarang yang bergerak d i bidang informasi dan teknologi. UKM Polytechnic Computer Club secara eksplisit terbagi menjadi dua bagian inti, yaitu Workshop dan Organisasi.</item>
+        <item>UKM Komunitas Seni Polines merupakan satu-satunya unit kegiatan mahasiswa di Politeknik Negeri Semarang yang bergerak di b idang Kesenian. Nama UKM Komunitas Seni Polines diresmikan pada tanggal 21 Juni 2003. Fungsi UKM KoNSeP adalah sebagai satu-satunya sarana pembangunan dan penyaluran minat dan bakat Mahasiswa Polines dala m bidang seni dan berorganisasi.-</item>
+        <item>Koperasi Mahasiswa Bahtera Manunggal adalah organisasi yang bergerak di bidang koperasi mahasiswa yang berada di Politeknik Negeri Semarang. Kopma BM dikelola oleh mahasiswa Polines itu sendiri.</item>
+        <item>UKM Kewirausahaan adalah UKM yang bergerak di bidan kewirausahaan. Kita dapat belajar mengenai wirausaha di UKM tersebut. Mulai dari membuat produk, hingga memasarkannya ke khalayak umum. Kita bisa belajar bagaimana menjadi entrepeneur muda.</item>
+        <item>UKM Pengembangan Pengetahuan adalah UKM yang bergerak di bidang ilmu pengetahuan. Kita bisa belajar mengenai robotik dan masih banyak yang lain. UKM PP juga mengadakan banyak pelatihan mengenai software yang biasa diterapkan untuk mata kuliah di Polines.</item>
+        <item>UKM Polytechnic English Conversation Club adalah UKM yang bergerak di bidang Bahasa Inggris. Kita bisa belajar banyak mengenai Bahasa Inggris disana. Mulai dari speaking, speech, sampai story retelling.</item>
+    </string-array>
+
+    <string-array name="photo">
+        <item>https://i.postimg.cc/QxdcLRBk/hme.jpg</item>
+        <item>https://i.postimg.cc/yxBXSxYw/hms.jpg</item>
+        <item>https://i.postimg.cc/LsL1BS7R/hmm.jpg</item>
+        <item>https://i.postimg.cc/3NS4Jxyj/hmak.jpg</item>
+        <item>https://i.postimg.cc/pLYvD1Z4/hmab.jpg</item>
+        <item>https://i.postimg.cc/8PGrdsgC/pcc.png</item>
+        <item>https://i.postimg.cc/QC3VqYPz/konsep.png</item>
+        <item>https://i.postimg.cc/RCRbM6mp/kopma.png</item>
+        <item>https://i.postimg.cc/Wby830H8/kwu.jpg</item>
+        <item>https://i.postimg.cc/NfK8W5jH/pp.png</item>
+        <item>https://i.postimg.cc/cCrYyb0S/pecc.jpg</item>
+
+    </string-array>
+</resources>
