@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SignUpApp</string>
+    <string name="daftar">Sign Up</string>
+    <string name="user">Username</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="content_text">2B Studio adalah tempat untuk belajar pemrograman perangkat bergerak baik dengan Android, IOS, maupun Windows Phone. Tidak Perlu Khawatir jika anda belum memiliki basic pemrograman sebelumnya. Sebab disini anda akan diajari from zero to hero dalam membuat aplikasi berbasis mobile. Segera daftarkan diri anda, minggu depan harga baik!</string>
+    <string name="sosmed">Sign Up with Social Media</string>
+    <string name="welcome">Selamat Datang di Polines Studio</string>
+</resources>

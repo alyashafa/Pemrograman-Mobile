@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Mineral Town Girls</string>
+    <string name="hm_name">Nama</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Popuri</item>
+        <item>Elli</item>
+        <item>Mary</item>
+        <item>Karen</item>
+        <item>Ann</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Gadis ini mewarnai rambutnya menjadi merah muda dan sangat menyukai binatang-binatang yang ada di hutan.</item>
+        <item>Gadis cantik berambut coklat dan dipotong pendek.</item>
+        <item>Gadis berambut hitam dan berkacamata.</item>
+        <item>Seorang gadis berambut pirang, biasanya ia berada di supermarket</item>
+        <item>Gadis berambut pirang ini akan terlihat lebih manis jika kamu sudah mengenalnya dengan baik.</item>
+    </string-array>
+
+    <string-array name="photo">
+        <item>https://i.postimg.cc/fRKwHxct/popuri.jpg</item>
+        <item>https://i.postimg.cc/LsnrzfNM/elli.jpg</item>
+        <item>https://i.postimg.cc/d1GNB9Cg/mary.jpg</item>
+        <item>https://i.postimg.cc/vH0q3T18/karen.jpg</item>
+        <item>https://i.postimg.cc/pr2CBMRn/ann.jpg</item>
+
+    </string-array>
+</resources>
